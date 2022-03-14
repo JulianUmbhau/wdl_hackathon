@@ -1,0 +1,6 @@
+matplotlib
+numpy
+requests
+bs4
+pandas
+lxml
